@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23.1 -- Jan van Straaten" site="tv.etcc.bg">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23.1 -- Jan van Straaten" site="tv.etcc.bg">
   <channels>
     <channel update="i" site="tv.etcc.bg" site_id="epg/serviceepg.php?service=Action%20Plus%20HD.xml" xmltv_id="Action Plus HD">Action Plus HD</channel>
     <channel update="i" site="tv.etcc.bg" site_id="epg/serviceepg.php?service=Alfa%20TV.xml" xmltv_id="Alfa TV">Alfa TV</channel>
@@ -214,4 +214,4 @@
     <channel update="i" site="tv.etcc.bg" site_id="epg/serviceepg.php?service=ZDFkultur.xml" xmltv_id="ZDFkultur">ZDFkultur</channel>
     <channel update="i" site="tv.etcc.bg" site_id="epg/serviceepg.php?service=ZDFneo.xml" xmltv_id="ZDFneo">ZDFneo</channel>
   </channels>
-</site>
+</tv>
